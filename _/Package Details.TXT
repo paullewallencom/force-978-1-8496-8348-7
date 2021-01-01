@@ -1,0 +1,16 @@
+The author has uploaded the unmanaged package for users to install in their org to Servers.
+
+To test, simply create a Dev org and click on the link.
+It will install automatically.
+
+====================================================================================================================================================================================
+	Library Management
+  	Version 1.2
+  	
+Use this URL to install the package into any organization:
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t9000000011f3
+
+
+Note: If you are installing into a sandbox organization you must replace the initial portion of the URL with http://test.salesforce.com
+==========================================================================================
+==========================================================================================
